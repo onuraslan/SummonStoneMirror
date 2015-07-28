@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+summonstone.com	TRUE	/	FALSE	1999999999	PHPSESSID	vq3dkbnp2lfjc4kj2b3tbhgl74
+

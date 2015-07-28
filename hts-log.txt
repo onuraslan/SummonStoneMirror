@@ -1,0 +1,66 @@
+HTTrack3.48-21 launched on Tue, 28 Jul 2015 14:24:46 at summonstone.com +http://summonstone.com/
+(httrack -f -F "Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)" summonstone.com +http://summonstone.com/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:26:49	Error: 	"Not Found" (404) at link summonstone.com/wp-content/plugins/ag-custom-admin/ (from summonstone.com/)
+14:26:49	Error: 	"Method Not Allowed" (405) at link summonstone.com/xmlrpc.php (from summonstone.com/)
+14:30:57	Error: 	"Not Found" (404) at link summonstone.com/wp-content/themes/enfold/framework/ (from summonstone.com/)
+14:31:01	Warning: 	Moved Permanently for summonstone.com/?p=15695
+14:31:01	Warning: 	File has moved from summonstone.com/?p=15695 to http://summonstone.com/deathknight/blood/
+14:31:01	Warning: 	Moved Permanently for summonstone.com/?p=15818
+14:31:01	Warning: 	File has moved from summonstone.com/?p=15818 to http://summonstone.com/deathknight/frost/
+14:31:01	Warning: 	Moved Permanently for summonstone.com/?p=12
+14:31:01	Warning: 	File has moved from summonstone.com/?p=12 to http://summonstone.com/deathknight/unholy/
+14:31:01	Warning: 	Moved Permanently for summonstone.com/?p=17150
+14:31:01	Warning: 	File has moved from summonstone.com/?p=17150 to http://summonstone.com/druid/feral/
+14:31:01	Warning: 	Moved Permanently for summonstone.com/?p=18945
+14:31:01	Warning: 	File has moved from summonstone.com/?p=18945 to http://summonstone.com/druid/guardian/
+14:31:01	Warning: 	Moved Permanently for summonstone.com/?p=17148
+14:31:01	Warning: 	File has moved from summonstone.com/?p=17148 to http://summonstone.com/druid/restoration/
+14:31:01	Error: 	"Not Found" (404) at link summonstone.com/druid/restoration/www.wowhead.com/spell=175013/impaling-throw (from summonstone.com/druid/restoration/)
+14:31:01	Warning: 	Moved Permanently for summonstone.com/?p=15687
+14:31:01	Warning: 	File has moved from summonstone.com/?p=15687 to http://summonstone.com/hunter/beastmastery/
+14:31:36	Warning: 	Moved Permanently for summonstone.com/?p=15861
+14:31:36	Warning: 	File has moved from summonstone.com/?p=15861 to http://summonstone.com/hunter/marksmanship/
+14:31:36	Warning: 	Moved Permanently for summonstone.com/?p=15879
+14:31:36	Warning: 	File has moved from summonstone.com/?p=15879 to http://summonstone.com/hunter/survival/
+14:31:36	Warning: 	Moved Permanently for summonstone.com/?p=17130
+14:31:36	Warning: 	File has moved from summonstone.com/?p=17130 to http://summonstone.com/mage/arcane/
+14:31:36	Warning: 	Moved Permanently for summonstone.com/?p=17136
+14:31:36	Warning: 	File has moved from summonstone.com/?p=17136 to http://summonstone.com/mage/frost/
+14:31:36	Warning: 	Moved Permanently for summonstone.com/?p=17155
+14:31:36	Warning: 	File has moved from summonstone.com/?p=17155 to http://summonstone.com/monk/brewmaster/
+14:31:36	Warning: 	Moved Permanently for summonstone.com/?p=16348
+14:31:36	Warning: 	File has moved from summonstone.com/?p=16348 to http://summonstone.com/monk/mistweaver/
+14:31:36	Error: 	"Not Found" (404) at link summonstone.com/monk/mistweaver/Cinder Wolves (from summonstone.com/monk/mistweaver/)
+14:31:36	Warning: 	Moved Permanently for summonstone.com/?p=16222
+14:31:36	Warning: 	File has moved from summonstone.com/?p=16222 to http://summonstone.com/monk/windwalker/
+14:31:36	Warning: 	Moved Permanently for summonstone.com/?p=15953
+14:31:36	Warning: 	File has moved from summonstone.com/?p=15953 to http://summonstone.com/paladin/holy/
+14:31:36	Warning: 	Moved Permanently for summonstone.com/?p=16396
+14:31:36	Warning: 	File has moved from summonstone.com/?p=16396 to http://summonstone.com/paladin/retribution/
+14:31:36	Warning: 	Moved Permanently for summonstone.com/?p=15887
+14:31:36	Warning: 	File has moved from summonstone.com/?p=15887 to http://summonstone.com/priest/shadow/
+14:31:36	Warning: 	Moved Permanently for summonstone.com/?p=17144
+14:31:36	Warning: 	File has moved from summonstone.com/?p=17144 to http://summonstone.com/rogue/combat/
+14:31:36	Warning: 	Moved Permanently for summonstone.com/?p=19826
+14:31:36	Warning: 	File has moved from summonstone.com/?p=19826 to http://summonstone.com/rogue/subtlety/
+14:31:36	Warning: 	Moved Permanently for summonstone.com/?p=15969
+14:31:36	Warning: 	File has moved from summonstone.com/?p=15969 to http://summonstone.com/shaman/elemental/
+14:31:36	Warning: 	Moved Permanently for summonstone.com/?p=16361
+14:31:36	Warning: 	File has moved from summonstone.com/?p=16361 to http://summonstone.com/warlock/affliction/
+14:31:36	Warning: 	Moved Permanently for summonstone.com/?p=17454
+14:31:36	Warning: 	File has moved from summonstone.com/?p=17454 to http://summonstone.com/warlock/demonology/
+14:31:36	Warning: 	Moved Permanently for summonstone.com/?p=18900
+14:31:36	Warning: 	File has moved from summonstone.com/?p=18900 to http://summonstone.com/warlock/destruction/
+14:31:36	Warning: 	Moved Permanently for summonstone.com/?p=19146
+14:31:36	Warning: 	File has moved from summonstone.com/?p=19146 to http://summonstone.com/warrior/arms/
+14:31:36	Warning: 	Moved Permanently for summonstone.com/?p=19147
+14:31:36	Warning: 	File has moved from summonstone.com/?p=19147 to http://summonstone.com/warrior/fury/
+
+HTTrack Website Copier/3.48-21 mirror complete in 6 minutes 50 seconds : 238 links scanned, 207 files written (13854159 bytes overall) [10910589 bytes received at 26611 bytes/sec], 4130922 bytes transferred using HTTP compression in 108 files, ratio 21%
+(5 errors, 50 warnings, 0 messages)
